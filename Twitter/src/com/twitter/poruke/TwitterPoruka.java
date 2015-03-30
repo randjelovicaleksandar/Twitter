@@ -64,7 +64,7 @@ public class TwitterPoruka {
 	 * @return podaci o korisniku i poruci kao String
 	 */
 	public String toString() {
-		return "KORISNIK:" + korisnik + " PORUKA:" + poruka;
+		return "KORISNIK: " + korisnik + " PORUKA: " + poruka;
 	}
 
 }
